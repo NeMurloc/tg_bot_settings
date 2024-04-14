@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e95dd886.css","mappings":"AAAA,KACE,mDAAoD,CACpD,gCAAiC,CAEjC,gBAAiB,CACjB,iBAAkB,CAFlB,eAGF","sources":["App.css"],"sourcesContent":["body {\n  background-color: var(--tg-theme-secondary-bg-color);\n  color: var(--tg-theme-text-color);\n  max-width: 400px;\n  margin-left: 15px;\n  margin-right: 15px;\n}"],"names":[],"sourceRoot":""}
