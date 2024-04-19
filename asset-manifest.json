@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tg_bot_settings/static/css/main.b67e34aa.css",
-    "main.js": "/tg_bot_settings/static/js/main.b1df5b1b.js",
+    "main.css": "/tg_bot_settings/static/css/main.72770694.css",
+    "main.js": "/tg_bot_settings/static/js/main.60c1ba27.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
@@ -9,11 +9,11 @@
     "static/media/SF-Pro-Display-Regular.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Regular.10e03531b907510de61f.otf",
     "static/media/SF-Mono-Regular.otf": "/tg_bot_settings/static/media/SF-Mono-Regular.dd15a7c876111223f6ca.otf",
     "index.html": "/tg_bot_settings/index.html",
-    "main.b67e34aa.css.map": "/tg_bot_settings/static/css/main.b67e34aa.css.map",
-    "main.b1df5b1b.js.map": "/tg_bot_settings/static/js/main.b1df5b1b.js.map"
+    "main.72770694.css.map": "/tg_bot_settings/static/css/main.72770694.css.map",
+    "main.60c1ba27.js.map": "/tg_bot_settings/static/js/main.60c1ba27.js.map"
   },
   "entrypoints": [
-    "static/css/main.b67e34aa.css",
-    "static/js/main.b1df5b1b.js"
+    "static/css/main.72770694.css",
+    "static/js/main.60c1ba27.js"
   ]
 }
