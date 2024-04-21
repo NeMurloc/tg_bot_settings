@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/tg_bot_settings/static/css/main.5ec62b8b.css",
-    "main.js": "/tg_bot_settings/static/js/main.38537eb2.js",
+    "main.css": "/tg_bot_settings/static/css/main.55c35f52.css",
+    "main.js": "/tg_bot_settings/static/js/main.d5e3835d.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
     "static/media/SF-Pro-Display-Medium.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Medium.d662b8cc0de816bd8db7.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Regular.10e03531b907510de61f.otf",
     "static/media/SF-Mono-Regular.otf": "/tg_bot_settings/static/media/SF-Mono-Regular.dd15a7c876111223f6ca.otf",
+    "static/media/Drill-in.svg": "/tg_bot_settings/static/media/Drill-in.238f0cbe60694eed08277f7ca55f9c76.svg",
     "static/media/Disclosure.svg": "/tg_bot_settings/static/media/Disclosure.24113e37a93c81d3242817db57d9e5f0.svg",
     "index.html": "/tg_bot_settings/index.html",
-    "main.5ec62b8b.css.map": "/tg_bot_settings/static/css/main.5ec62b8b.css.map",
-    "main.38537eb2.js.map": "/tg_bot_settings/static/js/main.38537eb2.js.map"
+    "main.55c35f52.css.map": "/tg_bot_settings/static/css/main.55c35f52.css.map",
+    "main.d5e3835d.js.map": "/tg_bot_settings/static/js/main.d5e3835d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ec62b8b.css",
-    "static/js/main.38537eb2.js"
+    "static/css/main.55c35f52.css",
+    "static/js/main.d5e3835d.js"
   ]
 }
