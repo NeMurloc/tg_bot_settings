@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tg_bot_settings/static/css/main.d3af62f4.css",
-    "main.js": "/tg_bot_settings/static/js/main.dda18ada.js",
+    "main.css": "/tg_bot_settings/static/css/main.43ba1795.css",
+    "main.js": "/tg_bot_settings/static/js/main.913b7a8b.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
@@ -11,11 +11,11 @@
     "static/media/Drill-in.svg": "/tg_bot_settings/static/media/Drill-in.54cd61cde77c32adceebe7485988ad13.svg",
     "static/media/Disclosure.svg": "/tg_bot_settings/static/media/Disclosure.24113e37a93c81d3242817db57d9e5f0.svg",
     "index.html": "/tg_bot_settings/index.html",
-    "main.d3af62f4.css.map": "/tg_bot_settings/static/css/main.d3af62f4.css.map",
-    "main.dda18ada.js.map": "/tg_bot_settings/static/js/main.dda18ada.js.map"
+    "main.43ba1795.css.map": "/tg_bot_settings/static/css/main.43ba1795.css.map",
+    "main.913b7a8b.js.map": "/tg_bot_settings/static/js/main.913b7a8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3af62f4.css",
-    "static/js/main.dda18ada.js"
+    "static/css/main.43ba1795.css",
+    "static/js/main.913b7a8b.js"
   ]
 }
