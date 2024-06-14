@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tg_bot_settings/static/css/main.76108294.css",
+    "main.css": "/tg_bot_settings/static/css/main.99a10bec.css",
     "main.js": "/tg_bot_settings/static/js/main.0f19b5fc.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
@@ -14,11 +14,11 @@
     "static/media/Disclosure.svg": "/tg_bot_settings/static/media/Disclosure.24113e37a93c81d3242817db57d9e5f0.svg",
     "index.html": "/tg_bot_settings/index.html",
     "static/media/DeletePhoto.svg": "/tg_bot_settings/static/media/DeletePhoto.809da9fdb3a603e9c13c8003d9f45036.svg",
-    "main.76108294.css.map": "/tg_bot_settings/static/css/main.76108294.css.map",
+    "main.99a10bec.css.map": "/tg_bot_settings/static/css/main.99a10bec.css.map",
     "main.0f19b5fc.js.map": "/tg_bot_settings/static/js/main.0f19b5fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.76108294.css",
+    "static/css/main.99a10bec.css",
     "static/js/main.0f19b5fc.js"
   ]
 }
