@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tg_bot_settings/static/css/main.172b2b08.css",
-    "main.js": "/tg_bot_settings/static/js/main.81ea0254.js",
+    "main.js": "/tg_bot_settings/static/js/main.ac06ebcd.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
@@ -16,10 +16,10 @@
     "index.html": "/tg_bot_settings/index.html",
     "static/media/DeletePhoto.svg": "/tg_bot_settings/static/media/DeletePhoto.809da9fdb3a603e9c13c8003d9f45036.svg",
     "main.172b2b08.css.map": "/tg_bot_settings/static/css/main.172b2b08.css.map",
-    "main.81ea0254.js.map": "/tg_bot_settings/static/js/main.81ea0254.js.map"
+    "main.ac06ebcd.js.map": "/tg_bot_settings/static/js/main.ac06ebcd.js.map"
   },
   "entrypoints": [
     "static/css/main.172b2b08.css",
-    "static/js/main.81ea0254.js"
+    "static/js/main.ac06ebcd.js"
   ]
 }
