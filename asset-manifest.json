@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tg_bot_settings/static/css/main.80c29453.css",
-    "main.js": "/tg_bot_settings/static/js/main.2edad3e9.js",
+    "main.css": "/tg_bot_settings/static/css/main.9c17b180.css",
+    "main.js": "/tg_bot_settings/static/js/main.87636128.js",
     "static/media/SF-Pro-Rounded-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Rounded-Semibold.cb1eeb24a6b1124f56ab.otf",
     "static/media/SF-Pro-Display-Semibold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Semibold.6099dd43659d57ccaab5.otf",
     "static/media/SF-Pro-Display-Bold.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Bold.0edd1bada269d5887ee1.otf",
     "static/media/SF-Pro-Display-Medium.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Medium.d662b8cc0de816bd8db7.otf",
     "static/media/SF-Pro-Display-Regular.otf": "/tg_bot_settings/static/media/SF-Pro-Display-Regular.10e03531b907510de61f.otf",
     "static/media/SF-Mono-Regular.otf": "/tg_bot_settings/static/media/SF-Mono-Regular.dd15a7c876111223f6ca.otf",
-    "static/media/AddNewServiceIcon.svg": "/tg_bot_settings/static/media/AddNewServiceIcon.2803636d42b8c89f45ae2e3798a0419d.svg",
+    "static/media/AddNewServiceIcon.svg": "/tg_bot_settings/static/media/AddNewServiceIcon.833222e6db4068854b4966e4d5dc8693.svg",
     "static/media/DeleteService.svg": "/tg_bot_settings/static/media/DeleteService.810f62ceb770da1f7bfb0a1bba8807a4.svg",
     "static/media/UploadPhoto.svg": "/tg_bot_settings/static/media/UploadPhoto.1071724082fceb76306bb47080ce920a.svg",
     "static/media/DeleteTemplate.svg": "/tg_bot_settings/static/media/DeleteTemplate.e751b4900127168b7434590ea3e5a71a.svg",
@@ -16,12 +16,12 @@
     "static/media/Disclosure.svg": "/tg_bot_settings/static/media/Disclosure.24113e37a93c81d3242817db57d9e5f0.svg",
     "index.html": "/tg_bot_settings/index.html",
     "static/media/DeletePhoto.svg": "/tg_bot_settings/static/media/DeletePhoto.809da9fdb3a603e9c13c8003d9f45036.svg",
-    "static/media/AddNewTemplateIcon.svg": "/tg_bot_settings/static/media/AddNewTemplateIcon.bf9e01af80394decbb25638556c2d24a.svg",
-    "main.80c29453.css.map": "/tg_bot_settings/static/css/main.80c29453.css.map",
-    "main.2edad3e9.js.map": "/tg_bot_settings/static/js/main.2edad3e9.js.map"
+    "static/media/AddNewTemplateIcon.svg": "/tg_bot_settings/static/media/AddNewTemplateIcon.333c8e0483760b0c4d92a7e5bea78fc6.svg",
+    "main.9c17b180.css.map": "/tg_bot_settings/static/css/main.9c17b180.css.map",
+    "main.87636128.js.map": "/tg_bot_settings/static/js/main.87636128.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c29453.css",
-    "static/js/main.2edad3e9.js"
+    "static/css/main.9c17b180.css",
+    "static/js/main.87636128.js"
   ]
 }
